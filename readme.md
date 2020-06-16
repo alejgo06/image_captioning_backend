@@ -9,6 +9,8 @@ Each version is a improve from previous versions
 # Screenshot
 ![Screenshot](example1.PNG)
 
+![Screenshot](example2.PNG)
+
 # run 
 
 uvicorn backend:app --reload --port 8021
